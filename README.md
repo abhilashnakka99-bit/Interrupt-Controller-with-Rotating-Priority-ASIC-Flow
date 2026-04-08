@@ -1,4 +1,4 @@
-#  Interrupt Controller with Rotating Priority (ASIC Flow)
+#  Rotating-Priority-Interrupt-Controller-ASIC
 
 ##  Overview
 
