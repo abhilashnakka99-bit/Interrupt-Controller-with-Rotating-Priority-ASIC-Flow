@@ -36,7 +36,7 @@ The design ensures fair arbitration among multiple interrupt requests and achiev
 7. Routing
 8. Timing Analysis
 9. GDSII Generation
-
+RTL → Synthesis → Floorplanning → Placement → Clock Tree Synthesis → Routing → GDSII
 ---
 
 ##  Timing Results
@@ -72,6 +72,12 @@ The design ensures fair arbitration among multiple interrupt requests and achiev
 * Minimal skew after CTS
 
 ---
+
+## How to Run
+
+Simulate using any Verilog simulator (ModelSim, etc.)
+Use SDC constraints for synthesis in Cadence Genus
+Perform place and route using Cadence Innovus
 
 ##  Results
 
