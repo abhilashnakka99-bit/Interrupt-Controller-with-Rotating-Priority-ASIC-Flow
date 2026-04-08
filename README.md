@@ -115,13 +115,13 @@ screenshots/    → Output images
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project demonstrates a complete ASIC design cycle using industry-standard Cadence tools, achieving timing closure, clean DRC, and efficient layout implementation.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Abhilash Nakka
 
